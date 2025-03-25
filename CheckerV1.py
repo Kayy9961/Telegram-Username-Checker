@@ -4,8 +4,6 @@ from colorama import Fore, Style, init
 import os
 from lxml import html
 import aiofiles
-import hashlib
-from keyauth import api
 import sys
 
 os.system("title Code Created By Kayy / Discord.gg/KayyShop")
